@@ -1,4 +1,4 @@
-GitHub Repository Link: <Please paste your GitHub repository link here>
+GitHub Repository Link: https://github.com/laka02/IT23225060_ITPM-Assignment-1
 
 Project: Singlish to Sinhala Chat Translator Automated Testing (QA)
 Registration Number: IT23225060
