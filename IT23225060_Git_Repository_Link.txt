@@ -1,0 +1,4 @@
+GitHub Repository Link: <Please paste your GitHub repository link here>
+
+Project: Singlish to Sinhala Chat Translator Automated Testing (QA)
+Registration Number: IT23225060
